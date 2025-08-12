@@ -113,8 +113,13 @@ export default function ColorPaletteGenerator() {
               >
                 {/* Color Display */}
                 <div
-                  className="h-48 md:h-64 cursor-pointer relative"
-                  style={{ backgroundColor: color.hex }}
+                  className="h-48 md:h-64 cursor-pointer relative color-display"
+                  style={{ 
+                    '--color-hex': color.hex,
+                    backgroundColor: color.hex,
+                    background: color.hex
+                  } as React.CSSProperties}
+                  data-color={color.hex}
                   onClick={() => copyToClipboard(color.hex, index)}
                 >
                   {/* Overlay */}
