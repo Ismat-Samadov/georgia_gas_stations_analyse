@@ -39,22 +39,26 @@ export default function ColorPaletteGenerator() {
   }
 
   const generateRandomColor = (): Color => {
-    // Generate 3 random RGB values between 0-255
-    const r = Math.floor(Math.random() * 256)
-    const g = Math.floor(Math.random() * 256)
-    const b = Math.floor(Math.random() * 256)
+    // Generate a random color using a simple method
+    const colors = [
+      '#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7',
+      '#DDA0DD', '#98D8C8', '#F7DC6F', '#BB8FCE', '#85C1E9',
+      '#F8C471', '#82E0AA', '#F1948A', '#85C1E9', '#D5DBDB',
+      '#FF7675', '#74B9FF', '#0984E3', '#00B894', '#FDCB6E',
+      '#E17055', '#81ECEC', '#FD79A8', '#A29BFE', '#6C5CE7'
+    ]
     
-    // Convert to hex and ensure 2 digits
-    const hex = `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`
+    const randomColor = colors[Math.floor(Math.random() * colors.length)]
     
     return {
-      hex: hex.toUpperCase(),
+      hex: randomColor,
       name: `Color ${Math.random().toString(36).substring(2, 5).toUpperCase()}`
     }
   }
 
   const generatePalette = useCallback(() => {
     const newPalette = Array.from({ length: 5 }, () => generateRandomColor())
+    console.log('Generated palette:', newPalette) // Debug log
     setPalette(newPalette)
   }, [])
 
