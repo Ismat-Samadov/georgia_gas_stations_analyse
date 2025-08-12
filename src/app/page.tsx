@@ -39,9 +39,16 @@ export default function ColorPaletteGenerator() {
   }
 
   const generateRandomColor = (): Color => {
-    const hex = Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0')
+    // Generate 3 random RGB values between 0-255
+    const r = Math.floor(Math.random() * 256)
+    const g = Math.floor(Math.random() * 256)
+    const b = Math.floor(Math.random() * 256)
+    
+    // Convert to hex and ensure 2 digits
+    const hex = `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`
+    
     return {
-      hex: `#${hex}`,
+      hex: hex.toUpperCase(),
       name: `Color ${Math.random().toString(36).substring(2, 5).toUpperCase()}`
     }
   }
