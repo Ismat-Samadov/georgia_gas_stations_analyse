@@ -93,7 +93,7 @@ def main():
     print(f"Found {len(stations)} stations.")
 
     rows = parse_stations(stations)
-    csv_path = "gulf.csv"
+    csv_path = "data/gulf.csv"
     save_csv(rows, csv_path)
     print(f"Saved {len(rows)} stations to {csv_path}")
 
