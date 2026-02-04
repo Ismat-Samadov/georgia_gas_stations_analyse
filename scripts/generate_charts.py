@@ -91,7 +91,7 @@ def chart_tbilisi(df):
                     str(val), ha="center", fontweight="bold", fontsize=13)
 
     ax.set_ylabel("Number of Stations")
-    ax.set_title("Tbilisi — The Capital Battleground (134 stations)")
+    ax.set_title(f"Tbilisi — The Capital Battleground ({counts.sum()} stations)")
     ax.set_ylim(0, counts.max() * 1.2)
     save(fig, "02_tbilisi_battle.png")
 
@@ -235,45 +235,35 @@ def chart_regional(df):
     region_map = {
         "Tbilisi": "Tbilisi",
         "Rustavi": "Kvemo Kartli", "Marneuli": "Kvemo Kartli", "Gardabani": "Kvemo Kartli",
-        "Bolnisi": "Kvemo Kartli",
-        "Kutaisi": "Imereti", "Zestaponi": "Imereti", "Sachkhere": "Imereti",
-        "Chiatura": "Imereti", "Tkibuli": "Imereti", "Samtredia": "Imereti",
-        "Khoni": "Imereti", "Vani": "Imereti", "Terjola": "Imereti",
+        "Bolnisi": "Kvemo Kartli", "Dmanisi": "Kvemo Kartli",
+        "Kutaisi": "Imereti", "Zestaponi": "Imereti", "Zestafoni": "Imereti",
+        "Sachkhere": "Imereti", "Chiatura": "Imereti", "Tkibuli": "Imereti",
+        "Samtredia": "Imereti", "Khoni": "Imereti", "Vani": "Imereti",
+        "Terjola": "Imereti", "Lanchkhuti": "Imereti", "Senaki": "Imereti",
+        "Kharagauli": "Imereti",
         "Batumi": "Adjara", "Kobuleti": "Adjara", "Khelvachauri": "Adjara",
+        "Gonio": "Adjara", "Keda": "Adjara",
         "Gori": "Shida Kartli", "Kaspi": "Shida Kartli", "Khashuri": "Shida Kartli",
-        "Kaspi District": "Shida Kartli",
-        "Zugdidi": "Samegrelo", "Senaki": "Samegrelo", "Poti": "Samegrelo",
+        "Kareli": "Shida Kartli",
+        "Zugdidi": "Samegrelo", "Poti": "Samegrelo",
         "Martvili": "Samegrelo", "Khobi": "Samegrelo", "Abasha": "Samegrelo",
-        "Tsalenjikha": "Samegrelo",
+        "Tsalenjikha": "Samegrelo", "Jvari": "Samegrelo",
         "Telavi": "Kakheti", "Gurjaani": "Kakheti", "Sagarejo": "Kakheti",
         "Akhmeta": "Kakheti", "Sighnaghi": "Kakheti", "Lagodekhi": "Kakheti",
-        "Dedoplistskaro": "Kakheti", "Kvareli": "Kakheti",
+        "Dedoplistskaro": "Kakheti", "Kvareli": "Kakheti", "Kakheti": "Kakheti",
         "Akhaltsikhe": "Samtskhe-Javakheti", "Akhalkalaki": "Samtskhe-Javakheti",
         "Ninotsminda": "Samtskhe-Javakheti", "Borjomi": "Samtskhe-Javakheti",
         "Bakuriani": "Samtskhe-Javakheti",
-        "Ozurgeti": "Guria", "Lanchkhuti": "Guria",
+        "Ozurgeti": "Guria", "Chokhatauri": "Guria",
         "Ambrolauri": "Racha-Lechkhumi", "Oni": "Racha-Lechkhumi",
-        "Mtskheta": "Mtskheta-Mtianeti", "Mtskheta District": "Mtskheta-Mtianeti",
-    }
-
-    # Also map SGP region names
-    sgp_region_map = {
-        "Kvemo Kartli": "Kvemo Kartli", "Imereti": "Imereti",
-        "Kakheti": "Kakheti", "Adjara": "Adjara",
-        "Shida Kartli": "Shida Kartli", "Samegrelo": "Samegrelo",
-        "Samtskhe-Javakheti": "Samtskhe-Javakheti", "Guria": "Guria",
-        "Racha-Lechkhumi": "Racha-Lechkhumi", "Svaneti": "Svaneti",
-        "Mtskheta-Mtianeti": "Mtskheta-Mtianeti",
+        "Mtskheta": "Mtskheta-Mtianeti", "Kazbegi": "Mtskheta-Mtianeti",
+        "Mestia": "Svaneti",
     }
 
     def get_region(row):
         city = row["city"]
         if city in region_map:
             return region_map[city]
-        if city in sgp_region_map:
-            return sgp_region_map[city]
-        if city == "Tbilisi":
-            return "Tbilisi"
         return ""
 
     df2 = df.copy()
@@ -302,30 +292,43 @@ def chart_regional(df):
 # ── 8. SGP Share by Region ───────────────────────────────────────────────────
 
 def chart_sgp_regional_share(df):
+    # Map all cities to regions (same as chart_regional)
     region_map = {
         "Tbilisi": "Tbilisi",
-        "Kvemo Kartli": "Kvemo Kartli", "Imereti": "Imereti",
-        "Kakheti": "Kakheti", "Adjara": "Adjara",
-        "Shida Kartli": "Shida Kartli", "Samegrelo": "Samegrelo",
-        "Samtskhe-Javakheti": "Samtskhe-Javakheti", "Guria": "Guria",
+        "Rustavi": "Kvemo Kartli", "Marneuli": "Kvemo Kartli", "Gardabani": "Kvemo Kartli",
+        "Bolnisi": "Kvemo Kartli", "Dmanisi": "Kvemo Kartli",
+        "Kutaisi": "Imereti", "Zestaponi": "Imereti", "Zestafoni": "Imereti",
+        "Sachkhere": "Imereti", "Chiatura": "Imereti", "Tkibuli": "Imereti",
+        "Samtredia": "Imereti", "Terjola": "Imereti", "Lanchkhuti": "Imereti",
+        "Senaki": "Imereti", "Kharagauli": "Imereti",
+        "Batumi": "Adjara", "Kobuleti": "Adjara", "Khelvachauri": "Adjara",
+        "Gonio": "Adjara", "Keda": "Adjara",
+        "Gori": "Shida Kartli", "Kaspi": "Shida Kartli", "Khashuri": "Shida Kartli",
+        "Kareli": "Shida Kartli",
+        "Zugdidi": "Samegrelo", "Poti": "Samegrelo",
+        "Tsalenjikha": "Samegrelo", "Jvari": "Samegrelo",
+        "Telavi": "Kakheti", "Gurjaani": "Kakheti", "Sagarejo": "Kakheti",
+        "Akhmeta": "Kakheti", "Sighnaghi": "Kakheti", "Lagodekhi": "Kakheti",
+        "Dedoplistskaro": "Kakheti", "Kvareli": "Kakheti", "Kakheti": "Kakheti",
+        "Akhaltsikhe": "Samtskhe-Javakheti", "Borjomi": "Samtskhe-Javakheti",
+        "Bakuriani": "Samtskhe-Javakheti",
+        "Ozurgeti": "Guria", "Chokhatauri": "Guria",
+        "Ambrolauri": "Racha-Lechkhumi",
+        "Mtskheta": "Mtskheta-Mtianeti", "Kazbegi": "Mtskheta-Mtianeti",
     }
 
-    # For SGP, city column contains region names directly
-    sgp = df[df["brand"] == "SGP"].copy()
-    sgp_region_counts = sgp["city"].value_counts()
+    df2 = df.copy()
+    df2["region"] = df2["city"].map(region_map).fillna("")
+    df2 = df2[df2["region"] != ""]
 
-    # For total, use all data but approximate
-    regions_list = list(region_map.values())
+    regions_list = ["Tbilisi", "Kvemo Kartli", "Imereti", "Adjara", "Samegrelo",
+                    "Kakheti", "Shida Kartli", "Samtskhe-Javakheti", "Guria"]
+
     region_data = []
-
     for region in regions_list:
-        sgp_count = sgp_region_counts.get(region, 0)
-        # Total in region: count all brands
-        total = 0
-        for _, row in df.iterrows():
-            c = row["city"]
-            if c == region or region_map.get(c) == region:
-                total += 1
+        rdf = df2[df2["region"] == region]
+        total = len(rdf)
+        sgp_count = len(rdf[rdf["brand"] == "SGP"])
         if total > 0:
             share = sgp_count / total * 100
             region_data.append((region, sgp_count, total, share))
@@ -335,6 +338,8 @@ def chart_sgp_regional_share(df):
     shares = [r[3] for r in region_data]
     sgp_n = [r[1] for r in region_data]
     total_n = [r[2] for r in region_data]
+
+    national_share = sum(sgp_n) / sum(total_n) * 100 if sum(total_n) > 0 else 18
 
     fig, ax = plt.subplots(figsize=(12, 6))
     bars = ax.barh(names, shares, color="#0072CE", edgecolor="white", height=0.6)
@@ -347,7 +352,8 @@ def chart_sgp_regional_share(df):
     ax.set_title("SGP (SOCAR) Market Share by Region")
     ax.set_xlim(0, max(shares) * 1.4 if shares else 50)
     ax.invert_yaxis()
-    ax.axvline(x=18, color="red", linestyle="--", alpha=0.5, label="National avg (18%)")
+    ax.axvline(x=national_share, color="red", linestyle="--", alpha=0.5,
+               label=f"National avg ({national_share:.0f}%)")
     ax.legend()
     save(fig, "08_sgp_regional_share.png")
 
