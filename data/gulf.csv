@@ -1,0 +1,187 @@
+id,name,address,latitude,longitude,is_active,fuel_types,poi_types,food_types
+5855,Lia,"Zugdidi, Village Lia",42.6509820952101,42.0004614951647,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5862,Tsalenjikha Tsminda nino,Tsalenjikha. Tsminda Nino Str.,42.6129225826517,42.0742128889671,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog"
+5894,Ambrolauri,"Ambrolauri, Vazha-Pshavela Str. #26",42.5267079105793,43.1528707340354,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5854,Zugdidi kalaki,"Zugdidi City, Kostava Str. #110",42.5136754148838,41.8726992602906,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5810,Gulf + • Ulevi,"Zugdidi, Ninoshvili Str. #2",42.5079254207962,41.8788192601328,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5811,Gulf + • Zugdidi rustaveli,"Zugdidi, Rustaveli Str. #354",42.500095831454,41.839790736448,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5818,Gulf + • Zugdidi,"Zugdidi, Gamsakhurdia Str. #204",42.4916395593244,41.8614885404832,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5863,Zugdidi chitatskari,"Zugdidi, Chitatskari",42.4843395185918,41.8500864126883,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5856,Martvili,"Martvili, Rustaveli Str. 1",42.4135979209618,42.3776499999996,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5830,Gulf + • Tkibuli Express,"Tkibuli, Rustaveli Str. #10",42.361216,43.002699,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5864,Khobi,"Khobi, Village Pirveli Maisi",42.3354873471857,41.8713299999996,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5904,tskaltubo,"Tskaltubo, Deda-Ena street, near 'Cold Lake'",42.3284979227353,42.6082128664037,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5845,Gulf + • Sachkhere merjevi,"Sachkhere, Ivantsminda village, first Str, #31",42.3210850439103,43.4402062811823,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5813,Gulf + • Senaki,"Senaki, Mshvidoba Str #172",42.2665279455084,42.0697792631764,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5895,Argoil,"Kutaisi, D. Agmashenebeli Avenue,  #99",42.26157472414,42.682740416756,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5644,Kutaisi 9 April,"Kutaisi, 9 April Str. #2a",42.260016,42.664958,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",
+5906,Kutaisi 9 aprili,"Kutaisi, 9 April Str. #2a",42.2599105048875,42.6653207411046,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5896,Gugunava,"Kutaisi, Gugunava Str. #10 b/d",42.2511582675514,42.6772399999999,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5831,Gulf + • Kutaisi Chavchavadze,"Kutaisi, I. Chavchavadze #8 and L. Asatiani #98 Street crossing",42.2498641241732,42.6891521711677,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5833,Gulf + • Kutaisi totali,"Kutaisi, Tsereteli str. #222a.",42.2466794108648,42.7095214549425,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5900,Nikea Express,"Kutaisi, Street Nikea, #12a",42.2442720511389,42.6926299999998,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5899,Nikea,"Kutaisi, Nikea Str. #19a",42.2344540866893,42.6920292535801,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5832,Gulf + • Kvitiri,"Tskaltubo District, Village Kvitiri",42.2258633469115,42.5903614712993,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5851,Abasha,"Abasha, Village Norio",42.2168797740693,42.1862007409433,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5905,kutaisi avtobani,Kutaisi Autobahn. Village Simoneti,42.2034535407644,42.8464420560654,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5858,Poti,"Poti, Village Little Poti",42.1897217680292,41.7081807190425,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5898,Ianeti,"Samtredia district, village Ianeti",42.1769366903103,42.4403443408453,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5902,Siktarva,"Terjola district, village Siktarva",42.173951507822,42.9340472469401,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5659,Gulf + • Poti Larnaka,"Gulf + • Poti Larnaka • 
+Poti, Larnaka Str.
+(Self Service)",42.1625,41.682334,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop",
+5660,Gulf + • Poti,"Poti, Larnaka Str.",42.1624759130781,41.6822392659698,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop","Coffee, Hot Dog"
+5815,Gulf + • Poti,"Poti, Larnaka Str.",42.1624759130781,41.6822392659698,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5661,Gulf + • Samtredia Tamar mepe,"Samtredia, Tamar Mepe Str. #13",42.1599656093931,42.3371199999999,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop","Coffee, Hot Dog"
+5829,Gulf + • Samtredia Tamar mepe,"Samtredia, Tamar Mepe Str. #13",42.1599656093931,42.3371199999999,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5662,Gulf + • Samtredia,"Gulf + • Samtredia •
+Tamar Mepe Str. #13
+(Self Service)",42.159963,42.337067,1,"Euro Diesel, Euro Regular, G-Force Premium","CNG Station, Gas Station, Shop",
+5859,Potioil,"Poti, Larnaka Str.",42.1585341026465,41.6842999999994,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,Coffee
+5931,Oil Terminal (Samtredia),"Oil Terminal (Samtredia, Kakabadze Str. #10)",42.157189,42.338118,1,,Oil Terminal,
+5666,"Tao, Kostava Str. 47","Tao, Kostava Str. #47",42.15585152528,42.30451407694,1,"Diesel Euro, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Gas Station,
+5814,Gulf + • Poti albatros,"Poti, Rekvava Str. #9",42.1490379526745,41.6751707265398,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5897,Zestafoni,"Zestafoni, tamar mepe Str. #89",42.1135760791291,43.0298892512248,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5901,Sajavakho,"Samtredia district, village Sajavakho",42.1033359415372,42.2928600000001,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5903,Dzirula resto,"Zestaponi district, village of Dzirula",42.0899096961649,43.1646519004681,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5673,Agara,Agara,42.036948238493,43.805808153381,1,"Diesel Euro, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Gas Station,
+5926,Qareli,"Kareli Municipality, Bebnisi Village, 1st Street,  #5",42.031101120933,43.902356949083,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5834,Gulf + • akhmeta kalaki,"Akhmeta, Sanapiro Str. #1b",42.0264196572388,45.2306614467845,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5929,Gori avtobani,"Gori Autoban, Village Berbuki",42.0184018920009,44.1251192681658,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5861,Chokhatauri 2,"Chokhatauri, Kostava Str. #7",42.0103358337407,42.231889265155,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5817,Gulf + • Chokhatauri,"Chokhatauri, Lomtatidze Str. #1",42.009867,42.235613,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5857,Ureki,"Ureki, Village Tskaltsminda",42.0078298783896,41.780310733654,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5680,Gori Exit,"Gori, Sukhishvili Str. #188",41.999434,44.123597,1,"Diesel Euro, Euro Regular, G-Force Premium","Gas Station, Shop",
+5682,Gulf + • Gori Kipiani,"Gori, Kipiani and Tkviavi street crossing",41.9945359565713,44.10785,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop",Coffee
+5848,Gulf + • Gori Kipiani,"Gori, Kipiani and Tkviavi street crossing",41.9945359565713,44.10785,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5683,Gulf + • Gori Kipiani,"Gulf + • Gori Kipiani • 
+Gori Kipiani, Kipiani and Tkviavi street crossing.
+(Self Service)",41.994461,44.107861,1,"Euro Diesel, Euro Regular, G-Force Premium","CNG Station, Gas Station, Shop",
+5684,Gori,"Gori, Highway Tskhinvali N8",41.993817804646,44.111197779636,1,"CNG, Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5923,Gori,"Gori, Highway Tskhinvali N8",41.9938178046458,44.1111977796362,1,"CNG, Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5928,Khashuri,"Khashuri, Stalini Str.",41.9899294197783,43.6140376856931,1,"CNG, Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5847,Gulf + • Gori tsikheebi,"Gori, Gogebashvili Str. #2",41.9873238324809,44.1100429389905,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5846,Gulf + • Khashuri,"Kashuri, Stalini Str. #148",41.986157735256,43.5967592696585,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5688,Akhmeta,"Akhmeta, Zemo Khodasheni",41.966344,45.359445,1,"Euro Diesel, Euro Regular, G-Force Premium",Gas Station,
+5927,Qvishkheti,"Khashuri Municipality, Khashuri-Borjomi, on the left of the 7th km of the Akhaltsikhe highway",41.9656879797188,43.5201507319867,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5690,"Ureki, Village Tskaltsminda","Ureki, Village Tskaltsminda",41.949875217455,41.778921809428,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop",Coffee
+5850,Gulf + • Kaspi,"Kaspi, Aghmashenebeli Str. #15a",41.9472337793921,44.4235992809288,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5692,Kaspi optima,"Kaspi, Agmashenebeli Str. #168",41.9410279827743,44.4211507319434,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Gas Station,
+5918,Kvareli,"Kvareli, Meurneoba Settlement",41.9298319488291,45.8237414720354,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5907,Vardisubani,"Telavi, Village Vardisubani",41.9272680769278,45.45625,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5840,Gulf + • Telavi centri,"Telavi, Aghmashenebeli Str. #64",41.9258656978407,45.4669099999998,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5908,Telavi civi 2,"Telavi, Rustaveli Str. #128",41.9188499152684,45.497560728588,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5837,Gulf + • Telavi civi,"Telavi, Davitashvili Str. #26",41.9185959304654,45.4947607379695,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","Service Center, Shop",Coffee
+5924,Natakhtari,"Mtskheta, village Misaktsieli area",41.9018859917935,44.7211099999998,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5930,Tserovani,"Mtskheta district, Tserovani Village",41.8943586264636,44.7110430617564,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5925,Narekvavi avtobani,"Mtskheta, Narekvavi",41.8852199829838,44.7169692588706,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5922,Borjomi,"Bordjomi, Near Rustaveli Str.",41.842278706815,43.387024131051,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5816,Gulf + • Kobuleti,Kobuleti Rustaveli Str. #170,41.8415379231072,41.7808800000002,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5910,Lagodekhi,"Lagodekhi, Vil. Shroma",41.825138262388,46.2634751581372,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5710,Gulf + • Digomi MG •,"Gulf + • Digomi MG • 
+Tbilisi, Agmashenebeli Alley #149
+(Self Service)",41.794901,44.770972,1,"Euro Diesel, Euro Regular, G-Force Premium","CNG Station, Gas Station, Shop",
+5711,Gulf + • Digomi MG,"Tbilisi, Agmashenebeli Alley #149",41.7948739514225,44.7709178735307,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5823,Gulf + • Digomi MG,"Tbilisi, Agmashenebeli Alley #149",41.7948739514225,44.7709178735307,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5879,Vekua,"Tbilisi, Vekua Str. #2",41.7906599999995,44.8142192742477,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5873,Giorgi 96,"Tbilisi,  David Agmashenebeli Alley #127",41.7889939799471,44.7704592794088,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5932,Oil Terminal (13),Oil Terminal (Tskalsadeni Str. #13),41.786630563042,44.794604506723,1,,Oil Terminal,
+5715,Oil Terminal (13),Oil Terminal (Tskalsadeni Str. #13),41.786630563042,44.794604506723,1,,Oil Terminal,
+5716,Oil Terminal (13),Oil Terminal (Tskalsadeni Str. #13),41.786630563042,44.794604506723,1,,Oil Terminal,
+5717,"Zigzagi, Tskalsadeni 13","Zigzagi, Tskalsadeni Str. #13",41.786282572616,44.795199957124,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Gas Station,Coffee
+5718,Zigzag,"Tbilisi, Irakli Kemoklidze Street #4",41.7862468451069,44.7949547778029,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5880,Zigzag,"Tbilisi, Irakli Kemoklidze Street #4",41.7862468451069,44.7949547778029,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5719,"Avchala, Tskalsadeni #11","Avchala, Tskalsadeni #11",41.786188574878,44.794804301169,1,,Service Center,
+5824,Gulf + • Irao,"Tbilisi, Tskalsadeni Str. #13",41.7856039574458,44.7942407099649,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5721,"Sarajishvili. Tbilisi, Davit Guramishvili Ave. N51","Sarajishvili. Tbilisi, Davit Guramishvili Ave. N51",41.784252,44.799912,1,"Euro Diesel, Euro Regular, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",
+5889,Sarajishvili,"Tbilisi, Davit Guramishvili Avenue, #51",41.7842140175603,44.7999700000001,1,"Euro Diesel, Euro Regular, G-Force Euro Regular, G-Force Premium",Shop,Coffee
+5722,Sarajishvili,"Tbilisi, Davit Guramishvili Avenue, #51",41.7842140175603,44.7999700000001,1,"Euro Diesel, Euro Regular, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",Coffee
+5890,Fortuna,"Tbilisi, David Agmashenebeli Alley, #172",41.7836959989534,44.7686492720325,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5723,Fortuna,"Tbilisi, David Agmashenebeli Alley, #172",41.7836959989534,44.7686492720325,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5724,Fortuna,Fortuna,41.783650583854,44.768726554143,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",Coffee
+5725,"Botanika, Agmashenebeli Alley #93","Botanika, Agmashenebeli Alley #93",41.779830704848,44.769463763505,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop",Coffee
+5893,Botanika,"Tbilisi, Agmashenebeli Alley #93",41.7797820057093,44.7694307203573,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5726,Botanika,"Tbilisi, Agmashenebeli Alley #93",41.7797820057093,44.7694307203573,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5826,Gulf + • Lubliana,"Tbilisi, Lubliana Str. #68",41.7797020015089,44.7746921855253,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5874,Guramishvili,"Tbilisi, Guramishvili Avenue, Industrial Association, adjacent to the Elmavalshenebeli factory",41.778091994809,44.7955307346912,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5729,Babilo,"Tbilisi, A. Beliashvili str. #45",41.7624779421799,44.7805685755957,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5869,Babilo,"Tbilisi, A. Beliashvili str. #45",41.7624779421799,44.7805685755957,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5730,"Babilo, A. Beliashvili str. #45","Babilo, A. Beliashvili str. #45",41.762440732396,44.78050949835,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop",Coffee
+5843,Gulf + • Gurjaani,"Gurjaani, Chumlaki",41.7601120664246,45.7727592653801,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5733,Corner,"Tbilisi, Akaki Beliashvili street #5",41.755603982045,44.77861852799,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5876,Didube,"Tbilisi, Didube, The Left Side of Mtkvari Near Digomi Bridge",41.7551240638179,44.7809114691712,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5735,"Didube, The Left Side of Mtkvari Near Digomi Bridge","Didube, The Left Side of Mtkvari Near Digomi Bridge",41.754947696051,44.780850138896,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Express, Gas Station, Shop",Coffee
+5921,Bakuriani,"Bakuriani, Tavisupleba Str. #48",41.7541460176822,43.5292800000001,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5877,Eurasia,"Tbilisi, Marshal Gelovani Avenue #5",41.74643,44.7701900000003,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5872,Gelovani,"Tbilisi, Marshal Gelovani Avenue  #16",41.744479999998,44.7690185139111,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5740,Khosharauli,"Tbilisi, Rafael Agladze Street #37",41.7345700000001,44.779569260079,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5741,"Khosharauli, Raphael Agladze Str. 37","Khosharauli, Raphael Agladze Str. #37",41.73452898517,44.779605593911,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5871,Budapeshti,"Tbilisi, Nutsubidze and Budapeshti Street Crossing",41.7302650011001,44.7581310326018,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5891,Khudadovi,"Tbilisi,  Khudadov and Chodrishvili intersection #4",41.729402,44.827062,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5839,Gulf + • Patardzeuli,"Sagarejo, Patardzeuli",41.72812,45.257603,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5885,Nutsubidze,"Tbilisi, Besarion Zhgenti Street, #10",41.7275919771173,44.7241907499556,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5884,Melanji,"Tbilisi, beginning of V. Bagrationi Street",41.7262319941801,44.7840985462724,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5827,Gulf + • Kavtaradze,"Kavtaradze, Petre Kavtaradze Str. #7",41.7225880334046,44.7377107259195,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5749,"Sagaredzho Satave, Kakheti Highway 16 km.","Sagaredzho Satave, Kakheti Highway 16 km.",41.722299,45.34877,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",Coffee
+5750,"Pointer, Tamarashvili Str. Near Ipodrom","Pointer, Tamarashvili Str. Near Ipodrom",41.721646,44.746185,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5751,Pointer,"Tbilisi, Mikheil Tamarashvili street #13p",41.7216219885716,44.7463192663901,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5881,Ipodrom,"Tbilisi, Mikheil Tamarashvili Street, #6b",41.7210499999992,44.7459292459172,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5860,Chakvi,"Chakvi, Tamar Mefe Str. #74a",41.7130580094418,41.7329078114212,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5754,Laguna vere,Laguna vere,41.712211673842,44.786075082056,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Gas Station,
+5917,Sartichala,"Gardabani, village Sartichala",41.711308007287,45.15186,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5757,"Sanapiro, The Right Side of Mtkvari, Near The Former Auto Station","Sanapiro, The Right Side of Mtkvari, Near The Former Auto Station",41.709296318156,44.789629008999,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop",Coffee
+5888,Sanapiro,"Tbilisi, Zviad Gamsakhurdia embankment, #104",41.7092345940436,44.7895454685868,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5759,Abashidze Str. 22. 577004949 / 577216216,Abashidze Str. 22. 577004949 / 577216216,41.707281922361,44.769845035303,1,,Service Center,
+5878,Varketili,"Tbilisi, between Varketili-3 and Vazisubani settlements",41.7000580147568,44.8705492655305,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog"
+5836,Gulf + • Gombori,"Gardabani, Martkobi Village",41.6951119899276,45.0922485752366,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5883,Lilo,"On the Kakheti highway, near Saknavtobi",41.6920360350494,44.9850085263232,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5835,Gulf + • Bakurtsikhe,"Gurjaani, Bakurtsikhe",41.6900500931407,45.8566299999998,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5765,Gulf + • Bio,"Tbilisi, Kakheti Highway",41.6882380531635,44.8500999999995,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5820,Gulf + • Bio,"Tbilisi, Kakheti Highway",41.6882380531635,44.8500999999995,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5766,Gulf + • BIO,"Gulf + • BIO • 
+Tbilisi, Kakheti Highway, 
+(Self Service)",41.688170056498,44.85002162718,1,"Euro Diesel, Euro Regular, G-Force Premium","CNG Station, Gas Station, Shop",Coffee
+5828,Gulf + • Orkhevi,"Tbilisi, Orkhevi",41.6880862795365,44.9201592652709,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5887,Piki,Kakheti Highway,41.6877959964671,44.8462307102964,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5770,Gulf + • Cosmonavt,"Tbilisi, on the Kakheti highway, near the Cosmonaut Monument in the direction of the airport",41.687088017011,44.8958699999999,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5808,Gulf + • Cosmonavt,"Tbilisi, on the Kakheti highway, near the Cosmonaut Monument in the direction of the airport",41.687088017011,44.8958699999999,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5882,Cosmonavt,"Tbilisi, on the Kakheti highway, near the Cosmonaut Monument in the direction of the airport",41.687088017011,44.8958699999999,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5772,Gulf + • Varketili javakheti,"Tbilisi, Javakheti Str. #14",41.6849641649885,44.8698385203876,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop",Coffee
+5825,Gulf + • Varketili javakheti,"Tbilisi, Javakheti Str. #14",41.6849641649885,44.8698385203876,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5773,Gulf + • Varketili,"Gulf + • Varketili • 
+Tbilisi, Javakheti Str. #50
+(Self Service)",41.6848291,44.8694381,1,"Euro Diesel, G-Force Euro Diesel, G-Force Premium","CNG Station, Gas Station, Shop",
+5774,Ortachala,Ortachala,41.681916361525,44.826694455378,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop",Coffee
+5775,Ortachala,"Tbilisi,  adjacent to the access road to the car wash on Didi Kheivani Street",41.681811984684,44.8267407321715,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5886,Ortachala,"Tbilisi,  adjacent to the access road to the car wash on Didi Kheivani Street",41.681811984684,44.8267407321715,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5870,Bronto,"Tbilisi, At the end of Javakheti Street, near the intersection of Moscow Avenue",41.6811919869661,44.8703992709875,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5822,Gulf + • Gulua,"Tbilisi, Gulua Str.",41.6766141651757,44.8304185443765,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5892,Joker,"Tbilisi, Dimitri Gulia Street, #22",41.6764580125844,44.83576,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5875,Dako,"Tbilisi,  Beri Gabriel Salosi Avenue #134",41.6723940154901,44.8669400000002,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5821,Gulf + • Gorgasali,"Tbilisi, Vakhtang Gorgsali Str. #117",41.6697819743121,44.8523600000004,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5819,Gulf + • Afrika,"Tbilisi, Kindzmarauli Str. #32",41.6659328996659,44.9133219903347,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5841,Gulf + • Ponichala,"Tbilisi, Rustavi Highway #18/22",41.6530199999952,44.904757819553,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5920,Akhalcikhe,"Akhaltsikhe Municipality, Akhaltsikhe City, Mikheil Tamarashvili Street, #62",41.646655981619,43.0012435700615,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5867,Batumi mcdonalds,"Batumi, Zurab Gorgiladze Str. #90",41.6434639661312,41.6190978161623,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5849,Gulf + • Akhalcikhe,"Akhaltsikhe, Rustaveli Str. #97",41.6393021473397,43.0160707265024,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5916,Sagarejo satave,"Gurjaani district, village Kachreti",41.6380319829947,45.6791714542742,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5787,Sagarejo satave,"Gurjaani district, village Kachreti",41.6380319829947,45.6791714542742,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5909,Kachreti,"Gurjaani district, village Kachreti",41.6380319821882,45.6791070871663,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5868,Lermontovi 2,"Batumi, Lermontovi Str. #86",41.6358959304288,41.6299514701176,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5865,batumi bagrationi,"Batumi, Bagrationi #198",41.6321599999977,41.6170914604218,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5812,Gulf + • Niazi,"Batumi, Leonidze Str. #9",41.6266760881858,41.6257507193537,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5838,Gulf + • Kumisi,"Gardabani, Kumisi",41.6180960541136,44.7939014142169,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5866,batumi aeroporti,"Batumi, Airport Highway #175",41.6109641415749,41.6133092764372,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5852,Adlia,"Batumi, Airport Highway, #304",41.5983220850403,41.598708547546,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5853,Gonio 2,"Batumi, Apsarosi str. #47a",41.5804982569215,41.5778700000003,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5919,koda,"Tetritskaro district, village Koda",41.5740419784719,44.7745350576344,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5844,Gulf + • Aspindza,"Aspindza, Vardzia Str. #44, Akhaltsikhe, Ninotsminda highway 31 km",41.5738282931377,43.2475707293615,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5809,Gulf + • Erge,"Khelvachauri, Vilage Erge",41.5666762346471,41.6878143121547,1,"Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,Coffee
+5842,Gulf + • Rustavi Kalaki,"Rustavi, VII Block, #3 Prof.Collage",41.5647162680578,44.9743307220866,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Premium",Shop,"Coffee, Hot Dog"
+5914,Rustavi shartava,"Rustavi Shartava, Shartava/Meskhishvili",41.5631120672501,44.9789499999997,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super",Shop,"Coffee, Hot Dog, Sandwich"
+5802,Rustavi shartava,"Rustavi Shartava, Shartava/Meskhishvili",41.5631120672501,44.9789499999997,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop","Coffee, Hot Dog, Sandwich"
+5803,"Rustavi Shartava, Shartava/Meskhishvili","Rustavi Shartava, Shartava/Meskhishvili",41.563068991575,44.978979554404,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium, G-Force Super","Gas Station, Shop",Coffee
+5913,Rustavi grandi,"Rustavi, Megrobroba ave. #32",41.5612160577524,44.97896146049,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5915,Rustavi mshenebelta,"Rustavi, Mshnebelata Street, adjacent area of the forest park",41.5447398449747,45.0035678009289,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
+5912,Marneuli kalaki,"Marneuli, 26 May Str.",41.4933799999992,44.8025592720859,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium","Service Center, Shop","Coffee, Hot Dog, Sandwich"
+5911,Marneuli sadakhlo,"Marneuli district, 3rd km of the Sadakhlo Armenian border road",41.4598499999953,44.8096978307472,1,"Euro Diesel, Euro Regular, G-Force Euro Diesel, G-Force Euro Regular, G-Force Premium",Shop,"Coffee, Hot Dog, Sandwich"
